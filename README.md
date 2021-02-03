@@ -11,6 +11,4 @@ Skills:
 <code>Plotly</code> for Data Visualisation.
 
 ## Authors
-Zi Heng
-Kei Wuai
-Wen Xiu
+Zi Heng, Kei Wuai, Wen Xiu
